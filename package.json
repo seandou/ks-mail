@@ -3,7 +3,17 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "nodemailer": "^2.3.2"
+  },
+  "devDependencies": {
+  },  
   "scripts": {
   },
-  "author": ""
+  "homepage": "https://github.com/seandou/ks-mail",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seandou/ks-mail.git"
+  },
+  "license": "MIT"
 }
